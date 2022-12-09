@@ -66,3 +66,35 @@ Profile page and the Junior Profile page but they are only saved when the Save b
 
 Clicking on Create New Account will prompt the Secretary to select which account they wish to make. They will then be taken to a blank Profile page to fill in. If the Secretary selected 
 a Junior Player then they will also be able to navigate to the Junior Profile page to add additional details. New Coach and Secretary accounts are created with the default "root" password.
+
+Login Screen:
+![Login](https://user-images.githubusercontent.com/79414856/206750910-c85711d0-cad5-415b-969a-a4938eeca4b7.JPG)
+
+Secretary View Accounts Screen + Create New Accounts button pressed:
+![View_Accounts_Secretary](https://user-images.githubusercontent.com/79414856/206750979-c519e827-7519-4fcb-a3fc-a10e20477de8.JPG)
+
+Secretary viewing an account for a Coach:
+![View_Accounts_Secretary2](https://user-images.githubusercontent.com/79414856/206750989-7dd2af15-f88c-4edd-972a-7e5ed8009cac.JPG)
+
+Secretary viewing details of her own account:
+![My_Details_Secretary](https://user-images.githubusercontent.com/79414856/206751003-779e080a-5a6c-4afc-abe0-e3bb169115aa.JPG)
+
+Coach viewing player details:
+![Player_Details_Coach](https://user-images.githubusercontent.com/79414856/206751026-eacbb824-3bcf-44f3-88e1-43ff0adfb1af.JPG)
+
+Coach viewing aditional player details:
+![Player_Details_Coach2](https://user-images.githubusercontent.com/79414856/206751058-e42bd249-ccdf-4c1b-bfe0-fba58ab35e5e.JPG)
+
+Coach viewing/editing skills sheet of a particular player:
+![Player_Skills_Coach](https://user-images.githubusercontent.com/79414856/206751099-0f7919ca-0a82-4fcf-bc9f-fcacf39fb6e6.JPG)
+
+Coach viewing existing squads:
+![View_Squads_Coach](https://user-images.githubusercontent.com/79414856/206751140-28bda755-fde4-4be8-b2b4-874920838a70.JPG)
+
+Coach viewing details of a particular squad:
+![View_Squads_Coach2](https://user-images.githubusercontent.com/79414856/206751154-e26cbdd5-48d8-433c-bd2e-f88883f3d0e4.JPG)
+
+
+
+
+
